@@ -1,4 +1,4 @@
-#  Welcom to my Image Search Engine
+#  Welcome to my Image Search Engine
 
 ## Project setup
 - clone the project on your local
